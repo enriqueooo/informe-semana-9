@@ -109,6 +109,11 @@ services:
 - La comunicación entre contenedores debe ser funcional y transparente.
 
 ---
+![1](semana9/1.png)
+![2](semana9/2.png)
+![3](semana9/3.png)
+![4](semana9/4.png)
+![5](semana9/5.png)
 
 ## 10. Bibliografía
 
